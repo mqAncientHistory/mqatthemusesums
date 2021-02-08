@@ -1,11 +1,11 @@
 # Site settings
-title: Macquarie Ancient History & Studies of Religion Teachers Conference
+title: Macquarie Ancient History & Studies of Religion Teachers Conference 2018
 description: Find tickets, schedules, and resources for the blockbuster Ancient History Teachers Conference and Studies of Religion Teachers conference.
 cover: assets/images/columns.jpg
 logo: /assets/images/MQ_INT_HOR_RGB_POS.png
 favicon: assets/images/favicon/apple-touch-icon-180x180-precomposed.png
-baseurl: "/" # the subpath of your site, e.g. /blog/ or / for root
-url: "https://www.mqatthemuseums.com" # the base hostname & protocol for your site
+baseurl: "mqatthemusesums/" # the subpath of your site, e.g. /blog/ or / for root
+url: "https://ancient-history-blog.mq.edu.au/" # the base hostname & protocol for your site
 paginate: 5 # The number of posts to show per page on your homepage
 
 # Social
